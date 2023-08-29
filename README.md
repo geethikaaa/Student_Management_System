@@ -7,8 +7,8 @@
                       5.Show all student records.
 
 ## Technologies Used:
- ✨Python
- ✨Tkinter(GUI)
- ✨MySql
- ✨Sql
+      ✨Python
+      ✨Tkinter(GUI)
+      ✨MySql
+      ✨Sql
 
